@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Search">0ff115d187973010c8731f4bbbbb35c3</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_136826_booking_a_booking_application">state&gt;=3^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="&gt;=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Past Bookings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_136826_booking_a_booking_application</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-18 15:58:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91df095187973010c8731f4bbbbb3542</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Past Bookings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Booking Application" source="x_136826_booking_a">09a8019987573010c8731f4bbbbb356a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booking Application">09a8019987573010c8731f4bbbbb356a</sys_scope>
+        <sys_update_name>sys_app_module_91df095187973010c8731f4bbbbb3542</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-18 16:19:03</sys_updated_on>
+        <timeline_page/>
+        <title>Past Bookings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
